@@ -1,0 +1,16 @@
+{
+  "name": "onbu-test",
+  "version": "1.0.0",
+  "main": "Playwright.config.js",
+  "scripts": {
+    "start:mcp": "node mcp-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.1"
+  }
+}
